@@ -1,7 +1,7 @@
 # File
 
 ## Aim:
-to write a C# program to store the student details in file using structure concept.
+To write a C# program to store the student details in file using structure concept.
 
 ## Algorithm:
 ### Step 1:

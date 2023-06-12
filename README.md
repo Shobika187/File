@@ -25,7 +25,7 @@ File has been created and written with student details.
 ## Program:
 ```
 Developed by :Shobika P
-Regiter number:212221230096
+Register number:212221230096
 ```
 ```
 using System;
